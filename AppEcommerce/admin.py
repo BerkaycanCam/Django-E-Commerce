@@ -40,3 +40,4 @@ class ProductAdmin(TranslationAdmin):
 class ProductAdmin(TranslationAdmin):
     pass
 
+ 
